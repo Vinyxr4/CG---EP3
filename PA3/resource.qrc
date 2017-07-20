@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/BP_noInterp_sd.vert</file>
+        <file>shaders/BP_noInterp_sd.frag</file>
+        <file>shaders/BP_noInterp_bp.vert</file>
+        <file>shaders/BP_noInterp_bp.frag</file>
+        <file>shaders/BP_noInterp_dp.vert</file>
+        <file>shaders/BP_noInterp_dp.frag</file>
+        <file>shaders/BP_interp_dp.vert</file>
+        <file>shaders/BP_interp_dp.frag</file>
+        <file>shaders/BP_interp_bp.frag</file>
+        <file>shaders/BP_interp_bp.vert</file>
+        <file>shaders/BP_interp_sd.frag</file>
+        <file>shaders/BP_interp_sd.vert</file>
+        <file>shaders/ON_interp_sd.frag</file>
+        <file>shaders/ON_interp_sd.vert</file>
+        <file>shaders/ON_interp_bp.frag</file>
+        <file>shaders/ON_interp_bp.vert</file>
+        <file>shaders/ON_interp_dp.frag</file>
+        <file>shaders/ON_interp_dp.vert</file>
+        <file>shaders/ON_noInterp_sd.frag</file>
+        <file>shaders/ON_noInterp_sd.vert</file>
+        <file>shaders/ON_noInterp_bp.frag</file>
+        <file>shaders/ON_noInterp_bp.vert</file>
+        <file>shaders/ON_noInterp_dp.frag</file>
+        <file>shaders/ON_noInterp_dp.vert</file>
+    </qresource>
+</RCC>
